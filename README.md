@@ -40,27 +40,39 @@ The platform enables users to explore courses, complete quizzes, track their lea
 
 ###  Login Page
 
+
 <img width="1473" height="676" alt="image" src="https://github.com/user-attachments/assets/23b2c598-2f40-42cb-94ac-57a0af093aff" />
+
 
 ###  Home Page
 
+
 <img width="1525" height="679" alt="image" src="https://github.com/user-attachments/assets/931f13dc-67ea-47c2-a90c-96547f76d899" />
+
 
 ###  Level Page
 
+
 <img width="1536" height="691" alt="image" src="https://github.com/user-attachments/assets/843cf938-b246-474f-940e-00d9e8aacd88" />
+
 
 ###  Game Pages
 
+
 <img width="1336" height="668" alt="image" src="https://github.com/user-attachments/assets/6562095f-1f27-4687-9651-37a64643374c" />
+
 
 <img width="1536" height="694" alt="image" src="https://github.com/user-attachments/assets/a3246a1f-7a13-403e-b2e3-9678eb287f2c" />
 
+
 ### Progress Page
+
 
 <img width="1462" height="690" alt="image" src="https://github.com/user-attachments/assets/1cbbce5d-1674-4e23-9a4f-0eb4f8d1cde2" />
 
+
 ### Profile Page
+
 
 <img width="1385" height="692" alt="image" src="https://github.com/user-attachments/assets/d8dbf5c4-6fc5-480b-b2be-ca220ca0433f" />
 
